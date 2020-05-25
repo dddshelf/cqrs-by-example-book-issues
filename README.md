@@ -6,6 +6,6 @@ We'll include all the contributors in the thanks page. Happy reading!
 
 Thanks for your contribution.
 
-Carlos Buenosvinos
-Christian Soronellas
-Keyvan Akbary
+* Carlos Buenosvinos
+* Christian Soronellas
+* Keyvan Akbary
